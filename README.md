@@ -52,6 +52,7 @@ KubeMove is developed under Apache 2.0 license.
 # Contributing
 
 We welcome participation from the community in defining more use cases, developing API spec and implementation. Please write new issues as you like.
+
 If you would like to know the ongoing work and its status, you can join us at status [meeting](<https://meet.google.com/ueh-fycm-aex>) that happens every Monday / Wednesday / Friday at 2.30 PM IST.
 
 
