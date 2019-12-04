@@ -55,4 +55,5 @@ We welcome participation from the community in defining more use cases, developi
 
 If you would like to know the ongoing work and its status, you can join us at status [meeting](<https://meet.google.com/ueh-fycm-aex>) that happens every Monday / Wednesday / Friday at 2.30 PM IST.
 
+Minutes of meeting are captured in this [doc](<https://docs.google.com/document/d/1B7y28-WUiOy_RnFVbGF59BDYOMYXV5cPTnfxBbcFXp4/edit?usp=sharing>)
 
